@@ -10,5 +10,6 @@ Dark23-academy@webshell:~$
 ```
 ## Notas Adicionales
 - nc- Es una herramienta de red que permite conectarse a un servidor en un puerto especifico
-- Tambíen puede abrir 
+- Tambíen puede abrir un puerto TCP o UDP en una máquina y luego desde otra conectarme a ese puerto.
 ## Referencias
+- [https://webshell.cylabacademy.org/](https://webshell.cylabacademy.org/)

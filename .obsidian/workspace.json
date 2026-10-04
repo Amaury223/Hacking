@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/56 - Most Cookies.md",
+                "file": "picoCTF/Primer_Examen/Parte 1 - General Skills/04 - HashingJobApp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "56 - Most Cookies"
+              "title": "04 - HashingJobApp"
+            }
+          },
+          {
+            "id": "fc3a6e2e899e1767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Primer_Examen/Parte 1 - General Skills/06 - Rust fixme 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 - Rust fixme 1"
+            }
+          },
+          {
+            "id": "9f0464dedc7e7b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Primer_Examen/Parte 2 - Web/07 - SQL Direct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 - SQL Direct"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,34 +228,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "76f78c87a00fca5f",
+  "active": "9f0464dedc7e7b44",
   "lastOpenFiles": [
-    "picoCTF/01 - General Skills/55 - Trickster.md",
-    "picoCTF/01 - General Skills/54 - SOAP.md",
-    "picoCTF/01 - General Skills/53 - MatchTheRegex.md",
-    "picoCTF/01 - General Skills/56 - Most Cookies.md",
-    "picoCTF/01 - General Skills/52 - More SQLi.md",
-    "Plantilla.md",
-    "picoCTF/01 - General Skills/51 - JaWT Scratchpad.md",
-    "picoCTF/01 - General Skills/50 - Irish-Name-Repo 1.md",
-    "picoCTF/01 - General Skills/47 - GET aHEAD.md",
-    "picoCTF/01 - General Skills/46 - Client-side-again.md",
-    "picoCTF/01 - General Skills/45 - picobrowser.md",
-    "README.md",
-    "picoCTF/01 - General Skills/44 - dont-use-client-side.md",
-    "picoCTF/01 - General Skills/43 - logon.md",
-    "picoCTF/01 - General Skills/42 - where are the robots.md",
-    "picoCTF/01 - General Skills/41 - Insp3ct0r.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/05 - Java Code Analysis.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/04 - head-dump.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/03 - findme.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/02 - Cookie Monster Secret Recipe.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/01 - Bookmarklet.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/09 - SansAlpha.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/10 - Specialer.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/08 - Rust fixme 3.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/07 - Rust fixme 2.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/06 - Rust fixme 1.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/05 - Python Wrangling.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/04 - HashingJobApp.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/03 - FANTASY CTF.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/02 - flag_shop.md",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills/01 - dont-you-love-banners.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/10 - WebSockFish.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/09 - SSTI2.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/08 - SSTI1.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/07 - SQL Direct.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/06 - n0s4n1ty 1.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web",
     "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "picoCTF/01 - General Skills/16 - Tab, Tab, Attack.md",
-    "picoCTF/01 - General Skills/15 - useless.md",
-    "picoCTF/01 - General Skills/14 - Static ain't always noise.md",
-    "picoCTF/01 - General Skills/13 - Wave a flag.md",
-    "picoCTF/01 - General Skills/12 - strings it.md",
-    "picoCTF/01 - General Skills/17 - Magikarp Ground Mission.md",
-    "picoCTF/01 - General Skills/11 - Based.md",
-    "picoCTF/01 - General Skills/10 - Nice netcat....md.md",
-    "picoCTF/01 - General Skills/09 - Glitch Cat.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/Sin título 1 1 1.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web/Sin título 1 1.md",
+    "Plantilla.md",
+    "picoCTF/01 - General Skills/56 - Most Cookies.md",
+    "picoCTF/Primer_Examen/Parte 2 - Web",
+    "picoCTF/Primer_Examen/Parte 1 - General Skills",
+    "picoCTF/Primer_Examen",
+    "picoCTF/01 - General Skills/55 - Trickster.md",
     "picoCTF",
     "Sin título 1.base",
     "picoCTF/01 - General Skills"

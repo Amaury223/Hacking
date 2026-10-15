@@ -18,4 +18,10 @@ Dark23-academy@webshell:~$ strings static.ltdis.strings.txt | grep pico
 picoCTF{d15a5m_t34s3r_20335e41}
 ```
 ## Notas Adicionales
+bajar 2 archivos, lugo de darle permisos de ejecucion a el primer archivo ltdis.sh y ejecutarlo con el parametro del segundo archivo este crea un archivo txt donde esta la bandera... otra opccion es hacer un strings y grep a el archivo static
+
+```
+strings static | grep pico
+```
 ## Referencias
+[Webshell](https://webshell.cylabacademy.org/)

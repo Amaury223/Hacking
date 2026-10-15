@@ -24,9 +24,11 @@ picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}
 
 ```
 ## Notas Adicionales
+descargamos el archivo y verificamos que tipo de archivo es, como es un ejecutable le damos permisos de ejecucion con chmod y al ejecutarlo este manda un mensaje de que necesita -h para lectura y al agregarlo manda la bandera.
 
-chmod +x warm
+./warm -ejecuta el binario una vez ue ya tiene los permisos de ejecucuon ElF es el formato de archivo ejecutable en liniux como el .exe de windows
 
-./warm
+file warm: ver que tipo de archivo es.
 
 ## Referencias
+EL PROFE [Webshell](https://webshell.cylabacademy.org/)

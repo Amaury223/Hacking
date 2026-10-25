@@ -39,6 +39,7 @@ Dark23-academy@webshell:~$ python3 vigenere.py
 academy{D0NT_US3_V1G3N3R3_C1PH3R_4a372077}
 ```
 ## Notas Adicionales
+.
 ## Referencias
 
 https://challenge-files.cylabacademy.net/library/7e1288d31bc6645f95d07bcf09caaf93210591ba082ba0f14490f0767ad7fd33/cipher.txt

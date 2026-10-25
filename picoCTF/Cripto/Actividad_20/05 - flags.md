@@ -3,7 +3,7 @@ What do the [flags](https://challenge-files.cylabacademy.net/library/187296d0c35
 
 Hints
 
-1
+1.
 
 The flag is in the format PICOCTF{}
 ## Solución

@@ -1,7 +1,7 @@
 ## Descripción
 I have these 2 images, can you make a flag out of them? [scrambled1.png](https://challenge-files.cylabacademy.net/library/5d582e313e019eefa2385b079dac13cc187060301fb28ae53d6cdeb2d5ac2af2/scrambled1.png) [scrambled2.png](https://challenge-files.cylabacademy.net/library/5d582e313e019eefa2385b079dac13cc187060301fb28ae53d6cdeb2d5ac2af2/scrambled2.png)
 
-Hints
+Hints.
 
 1
 

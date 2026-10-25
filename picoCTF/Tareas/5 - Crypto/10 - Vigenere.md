@@ -3,7 +3,7 @@ Can you decrypt this message? Decrypt this [message](https://challenge-files.cyl
 
 Hints
 
-1
+1.
 
 [https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
 ## Solución

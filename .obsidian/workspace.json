@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing/Parte1_Actividad/05 - vault-door-5.md",
+                "file": "picoCTF/Segundo_Examen/Crypto/10 - rsa_oracle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - vault-door-5"
+              "title": "10 - rsa_oracle"
             }
           }
         ]
@@ -187,6 +187,33 @@
   },
   "active": "87b99e0a47b7b6fa",
   "lastOpenFiles": [
+    "picoCTF/Segundo_Examen/Crypto/09 - Related Messages.md",
+    "picoCTF/Segundo_Examen/Crypto/08 - Small Trouble.md",
+    "picoCTF/Segundo_Examen/Crypto/07 - Timestamped Secrets.md",
+    "picoCTF/Segundo_Examen/Crypto/06 - Custom encryption.md",
+    "picoCTF/Segundo_Examen/Crypto/05 - transposition-trial.md",
+    "picoCTF/Segundo_Examen/Crypto/04 - Shared Secrets.md",
+    "picoCTF/Segundo_Examen/Crypto/03 - StegoRSA.md",
+    "picoCTF/Segundo_Examen/Crypto/02 - rotation.md",
+    "picoCTF/Segundo_Examen/Crypto/01 - basic-mod2.md",
+    "picoCTF/Segundo_Examen/Forensic/05 - Flag in Flame.md",
+    "picoCTF/Segundo_Examen/Forensic/03 - Riddle Registry.md",
+    "picoCTF/Segundo_Examen/Forensic/01 - Lookey here.md",
+    "picoCTF/Segundo_Examen/Forensic/08 - Timeline 0.md",
+    "picoCTF/Segundo_Examen/Forensic/09 - Timeline 1.md",
+    "picoCTF/Segundo_Examen/Forensic/10 - DISKO 4.md",
+    "picoCTF/Segundo_Examen/Forensic/02 - Enhance!.md",
+    "picoCTF/Segundo_Examen/Forensic/04 - Hidden in plainsight.md",
+    "picoCTF/Segundo_Examen/Forensic/06 - Corrupted file.md",
+    "picoCTF/Segundo_Examen/Forensic/07 - Binary Digits.md",
+    "Pasted image 20261027191538.png",
+    "Pasted image 20261027191521.png",
+    "picoCTF/Segundo_Examen/Crypto/10 - rsa_oracle.md",
+    "picoCTF/Segundo_Examen/Forensic",
+    "Plantilla.md",
+    "picoCTF/Reversing/Parte1_Actividad/05 - vault-door-5.md",
+    "picoCTF/Segundo_Examen/Crypto",
+    "picoCTF/Segundo_Examen",
     "VaultDoor5.java",
     "Sin confirmar 975445.crdownload",
     "picoCTF/Reversing/Parte1_Actividad/04 - vault-door-4.md",
@@ -196,32 +223,6 @@
     "picoCTF/Reversing/Parte1_Actividad/02 - vault-door-1.md",
     "VaultDoor3.java",
     "Sin confirmar 494290.crdownload",
-    "VaultDoor1.java",
-    "Sin confirmar 224561.crdownload",
-    "picoCTF/Reversing/Parte1_Actividad/01 - ault-door-training.md",
-    "picoCTF/Reversing/Parte1_Actividad/05 - vault-door-5.md",
-    "Plantilla.md",
-    "VaultDoorTraining.java",
-    "Sin confirmar 328758.crdownload",
-    "picoCTF/Reversing/Parte1_Actividad/Sin nombre",
-    "picoCTF/Tareas/5 - Crypto/10 - Vigenere.md",
-    "picoCTF/Cripto/Actividad_20/05 - flags.md",
-    "picoCTF/Cripto/Actividad_20/03 - HideToSee.md",
-    "picoCTF/Cripto/Actividad_20/02 - basic-mod1.md",
-    "picoCTF/Cripto/Actividad_20/01 - Pixelated.md",
-    "picoCTF/Cripto/Actividad_20/04 - ReadMyCert.md",
-    "picoCTF/Tareas/5 - Crypto/09 - substitution2.md",
-    "picoCTF/Tareas/5 - Crypto/08 - substitution1.md",
-    "picoCTF/Tareas/5 - Crypto/07 - substitution0.md",
-    "picoCTF/Tareas/5 - Crypto/06 - rail-fence.md",
-    "picoCTF/Tareas/5 - Crypto/05 - morse-code.md",
-    "picoCTF/Tareas/5 - Crypto/04 - hashcrack.md",
-    "picoCTF/Tareas/5 - Crypto/03 - EVEN RSA CAN BE BROKEN.md",
-    "picoCTF/Tareas/5 - Crypto/02 - credstuff.md",
-    "picoCTF/Tareas/5 - Crypto/01 - Crack the Power.md",
-    "picoCTF/Tareas/5 - Crypto/01 - 1 1 1 1 1 1 1 1 1 1 1 1 1.md",
-    "picoCTF/Tareas/5 - Crypto/01 - 1 1 1 1 1 1 1 1 1 1 1 1.md",
-    "picoCTF/Tareas/5 - Crypto/01 - 1 1 1 1 1 1 1 1 1 1 1.md",
-    "picoCTF/Tareas/5 - Crypto/01 - 1 1 1 1 1 1 1 1 1 1.md"
+    "VaultDoor1.java"
   ]
 }

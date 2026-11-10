@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing/Parte2_Actividad22/06 - Picker IV.md",
+                "file": "picoCTF/Reversing/Parte3_Actividad23/03 - asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Picker IV"
+              "title": "03 - asm3"
             }
           }
         ]
@@ -187,12 +187,16 @@
   },
   "active": "87b99e0a47b7b6fa",
   "lastOpenFiles": [
+    "picoCTF/Reversing/Parte3_Actividad23/01 - asm1.md",
+    "picoCTF/Reversing/Parte3_Actividad23/03 - asm3.md",
+    "picoCTF/Reversing/Parte3_Actividad23/02 - asm2.md",
+    "Plantilla.md",
+    "picoCTF/Reversing/Parte2_Actividad22/06 - Picker IV.md",
+    "picoCTF/Reversing/Parte3_Actividad23",
     "picoCTF/Reversing/Parte2_Actividad22/05 - Picker III.md",
     "picoCTF/Reversing/Parte2_Actividad22/04 - Picker II.md",
     "picoCTF/Reversing/Parte2_Actividad22/03 - Picker I.md",
     "picoCTF/Reversing/Parte2_Actividad22/02 - timer.md",
-    "picoCTF/Reversing/Parte2_Actividad22/06 - Picker IV.md",
-    "Plantilla.md",
     "README.md",
     "picoCTF/Reversing/Parte2_Actividad22/01 - Safe Opener 2.md",
     "picoCTF/Segundo_Examen/Crypto/10 - rsa_oracle.md",
@@ -211,9 +215,6 @@
     "picoCTF/Segundo_Examen/Forensic/03 - Riddle Registry.md",
     "picoCTF/Segundo_Examen/Forensic/01 - Lookey here.md",
     "picoCTF/Segundo_Examen/Forensic/08 - Timeline 0.md",
-    "picoCTF/Segundo_Examen/Forensic/09 - Timeline 1.md",
-    "picoCTF/Segundo_Examen/Forensic/10 - DISKO 4.md",
-    "picoCTF/Segundo_Examen/Forensic/02 - Enhance!.md",
     "Pasted image 20261027191538.png",
     "Pasted image 20261027191521.png",
     "picoCTF/Segundo_Examen/Forensic",
@@ -223,7 +224,6 @@
     "Sin confirmar 975445.crdownload",
     "VaultDoor4.java",
     "Sin confirmar 572041.crdownload",
-    "VaultDoor3.java",
-    "Sin confirmar 494290.crdownload"
+    "VaultDoor3.java"
   ]
 }

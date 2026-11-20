@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing/Parte4_Actividad 24/03 - Need For Speed.md",
+                "file": "picoCTF/Forensic/Actividad 14/02 - WhitePages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Need For Speed"
+              "title": "02 - WhitePages"
+            }
+          },
+          {
+            "id": "9bee725b8d6c1d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Forensic/Actividad 14/03 - c0rrupt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - c0rrupt"
+            }
+          },
+          {
+            "id": "a8406bd5a223c511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Forensic/Actividad 14/04 - like1000.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 - like1000"
+            }
+          },
+          {
+            "id": "327ea70c67d46ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Forensic/Actividad 15/05 - MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - MacroHard WeakEdge"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,15 +228,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "87b99e0a47b7b6fa",
+  "active": "327ea70c67d46ca9",
   "lastOpenFiles": [
+    "picoCTF/Forensic/Actividad 15/04 - tunn3l v1s10n.md",
+    "picoCTF/Forensic/Actividad 15/05 - MacroHard WeakEdge.md",
+    "picoCTF/Forensic/Actividad 15/03 - Matryoshka doll.md",
+    "picoCTF/Forensic/Actividad 15/02 - Webnet1.md",
+    "picoCTF/Forensic/Actividad 15/01 - WebNet0.md",
+    "Pasted image 20261120020302.png",
+    "Plantilla.md",
+    "picoCTF/Forensic/Actividad 14/01 - m00nwalk.md",
+    "picoCTF/Forensic/Actividad 15",
+    "picoCTF/Forensic/Actividad 14/05 - shark on wire 2.md",
+    "picoCTF/Forensic/Actividad 14/04 - like1000.md",
+    "Pasted image 20261120002356.png",
+    "picoCTF/Forensic/Actividad 14/03 - c0rrupt.md",
+    "Pasted image 20261120002037.png",
+    "picoCTF/Forensic/Actividad 14/02 - WhitePages.md",
+    "picoCTF/Forensic/Actividad 13/05 - What Lies Within.md",
+    "picoCTF/Forensic/Actividad 14",
+    "picoCTF/Forensic/Actividad 13/04 - extensions.md",
+    "Pasted image 20261119234917.png",
+    "picoCTF/Forensic/Actividad 13/03 - shark on wire 1.md",
+    "picoCTF/Forensic/Actividad 13/02 - So Meta.md",
+    "picoCTF/Forensic/Actividad 13/01 - Glory of the Garden.md",
+    "picoCTF/Reversing/Parte4_Actividad 24/03 - Need For Speed.md",
+    "picoCTF/Forensic/Actividad 13",
+    "picoCTF/Forensic",
     "picoCTF/Reversing/Parte4_Actividad 24/02 - reverse_cipher.md",
     "picoCTF/Reversing/Parte4_Actividad 24/01 - GDB Test Drive.md",
     "Pasted image 20261119230330.png",
     "Pasted image 20261119230323.png",
     "Pasted image 20261119230317.png",
-    "picoCTF/Reversing/Parte4_Actividad 24/03 - Need For Speed.md",
-    "Plantilla.md",
     "picoCTF/Reversing/Parte3_Actividad23/03 - asm3.md",
     "picoCTF/Reversing/Parte4_Actividad 24",
     "picoCTF/Reversing/Parte3_Actividad23/01 - asm1.md",
@@ -202,30 +268,11 @@
     "picoCTF/Reversing/Parte3_Actividad23",
     "picoCTF/Reversing/Parte2_Actividad22/05 - Picker III.md",
     "picoCTF/Reversing/Parte2_Actividad22/04 - Picker II.md",
-    "picoCTF/Reversing/Parte2_Actividad22/03 - Picker I.md",
-    "picoCTF/Reversing/Parte2_Actividad22/02 - timer.md",
-    "README.md",
-    "picoCTF/Reversing/Parte2_Actividad22/01 - Safe Opener 2.md",
-    "picoCTF/Segundo_Examen/Crypto/10 - rsa_oracle.md",
     "picoCTF/Reversing/Parte2_Actividad22",
-    "picoCTF/Reversing/Sin título.md",
-    "picoCTF/Segundo_Examen/Crypto/09 - Related Messages.md",
-    "picoCTF/Segundo_Examen/Crypto/08 - Small Trouble.md",
-    "picoCTF/Segundo_Examen/Crypto/07 - Timestamped Secrets.md",
-    "picoCTF/Segundo_Examen/Crypto/06 - Custom encryption.md",
-    "picoCTF/Segundo_Examen/Crypto/05 - transposition-trial.md",
-    "picoCTF/Segundo_Examen/Crypto/04 - Shared Secrets.md",
-    "picoCTF/Segundo_Examen/Crypto/03 - StegoRSA.md",
-    "picoCTF/Segundo_Examen/Crypto/02 - rotation.md",
-    "picoCTF/Segundo_Examen/Crypto/01 - basic-mod2.md",
     "Pasted image 20261027191538.png",
     "Pasted image 20261027191521.png",
     "picoCTF/Segundo_Examen/Forensic",
     "picoCTF/Segundo_Examen/Crypto",
-    "picoCTF/Segundo_Examen",
-    "VaultDoor5.java",
-    "Sin confirmar 975445.crdownload",
-    "VaultDoor4.java",
-    "Sin confirmar 572041.crdownload"
+    "picoCTF/Segundo_Examen"
   ]
 }

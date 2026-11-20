@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic/Actividad 15/05 - MacroHard WeakEdge.md",
+                "file": "picoCTF/01 - General Skills/48 - Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - MacroHard WeakEdge"
+              "title": "48 - Scavenger Hunt"
             }
           }
         ],
@@ -230,13 +230,18 @@
   },
   "active": "327ea70c67d46ca9",
   "lastOpenFiles": [
-    "picoCTF/Forensic/Actividad 15/04 - tunn3l v1s10n.md",
+    "picoCTF/01 - General Skills/49 - Cookies.md",
+    "picoCTF/01 - General Skills/48 - Scavenger Hunt.md",
+    "picoCTF/01 - General Skills/47 - GET aHEAD.md",
+    "Pasted image 20261120100848.png",
+    "Pasted image 20261120100646.png",
+    "Plantilla.md",
     "picoCTF/Forensic/Actividad 15/05 - MacroHard WeakEdge.md",
+    "picoCTF/Forensic/Actividad 15/04 - tunn3l v1s10n.md",
     "picoCTF/Forensic/Actividad 15/03 - Matryoshka doll.md",
     "picoCTF/Forensic/Actividad 15/02 - Webnet1.md",
     "picoCTF/Forensic/Actividad 15/01 - WebNet0.md",
     "Pasted image 20261120020302.png",
-    "Plantilla.md",
     "picoCTF/Forensic/Actividad 14/01 - m00nwalk.md",
     "picoCTF/Forensic/Actividad 15",
     "picoCTF/Forensic/Actividad 14/05 - shark on wire 2.md",
@@ -264,13 +269,9 @@
     "picoCTF/Reversing/Parte4_Actividad 24",
     "picoCTF/Reversing/Parte3_Actividad23/01 - asm1.md",
     "picoCTF/Reversing/Parte3_Actividad23/02 - asm2.md",
-    "picoCTF/Reversing/Parte2_Actividad22/06 - Picker IV.md",
     "picoCTF/Reversing/Parte3_Actividad23",
-    "picoCTF/Reversing/Parte2_Actividad22/05 - Picker III.md",
-    "picoCTF/Reversing/Parte2_Actividad22/04 - Picker II.md",
     "picoCTF/Reversing/Parte2_Actividad22",
     "Pasted image 20261027191538.png",
-    "Pasted image 20261027191521.png",
     "picoCTF/Segundo_Examen/Forensic",
     "picoCTF/Segundo_Examen/Crypto",
     "picoCTF/Segundo_Examen"

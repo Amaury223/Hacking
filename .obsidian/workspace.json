@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0c233be4925d7c21",
+        "id": "3bce8ddb282200b5",
         "type": "tabs",
         "children": [
           {
-            "id": "87b99e0a47b7b6fa",
+            "id": "994ee76ed4cfe237",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic/Actividad 14/02 - WhitePages.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02 - WhitePages"
-            }
-          },
-          {
-            "id": "9bee725b8d6c1d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic/Actividad 14/03 - c0rrupt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - c0rrupt"
-            }
-          },
-          {
-            "id": "a8406bd5a223c511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic/Actividad 14/04 - like1000.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 - like1000"
-            }
-          },
-          {
-            "id": "327ea70c67d46ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/01 - General Skills/48 - Scavenger Hunt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "48 - Scavenger Hunt"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,14 +181,28 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "327ea70c67d46ca9",
+  "active": "994ee76ed4cfe237",
   "lastOpenFiles": [
-    "picoCTF/01 - General Skills/49 - Cookies.md",
+    "picoCTF/Forensic/Actividad 14/02 - WhitePages.md",
+    "picoCTF/Forensic/Actividad 14/03 - c0rrupt.md",
+    "picoCTF/Forensic/Actividad 14/04 - like1000.md",
+    "picoCTF/Cripto/Actividad_17/03 - Caesar.md",
+    "picoCTF/Cripto/Actividad_17/08 - interencdec.md",
+    "picoCTF/Cripto/Actividad_17/07 - waves over lambda.md",
+    "picoCTF/Cripto/Actividad_17/06 - Tapping.md",
+    "picoCTF/Cripto/Actividad_17/05 - la cifra de.md",
+    "picoCTF/Cripto/Actividad_17/04 - Easy1.md",
+    "picoCTF/Cripto/Actividad_17/02 - 13.md",
+    "picoCTF/Cripto/Actividad_17/01 - The numbers.md",
+    "Pasted image 20261120150739.png",
+    "the_numbers.png",
+    "picoCTF/Cripto/Actividad_17/Sin título 8.md",
+    "Plantilla.md",
     "picoCTF/01 - General Skills/48 - Scavenger Hunt.md",
+    "picoCTF/01 - General Skills/49 - Cookies.md",
     "picoCTF/01 - General Skills/47 - GET aHEAD.md",
     "Pasted image 20261120100848.png",
     "Pasted image 20261120100646.png",
-    "Plantilla.md",
     "picoCTF/Forensic/Actividad 15/05 - MacroHard WeakEdge.md",
     "picoCTF/Forensic/Actividad 15/04 - tunn3l v1s10n.md",
     "picoCTF/Forensic/Actividad 15/03 - Matryoshka doll.md",
@@ -245,33 +212,19 @@
     "picoCTF/Forensic/Actividad 14/01 - m00nwalk.md",
     "picoCTF/Forensic/Actividad 15",
     "picoCTF/Forensic/Actividad 14/05 - shark on wire 2.md",
-    "picoCTF/Forensic/Actividad 14/04 - like1000.md",
     "Pasted image 20261120002356.png",
-    "picoCTF/Forensic/Actividad 14/03 - c0rrupt.md",
     "Pasted image 20261120002037.png",
-    "picoCTF/Forensic/Actividad 14/02 - WhitePages.md",
     "picoCTF/Forensic/Actividad 13/05 - What Lies Within.md",
     "picoCTF/Forensic/Actividad 14",
     "picoCTF/Forensic/Actividad 13/04 - extensions.md",
     "Pasted image 20261119234917.png",
-    "picoCTF/Forensic/Actividad 13/03 - shark on wire 1.md",
-    "picoCTF/Forensic/Actividad 13/02 - So Meta.md",
-    "picoCTF/Forensic/Actividad 13/01 - Glory of the Garden.md",
-    "picoCTF/Reversing/Parte4_Actividad 24/03 - Need For Speed.md",
     "picoCTF/Forensic/Actividad 13",
     "picoCTF/Forensic",
-    "picoCTF/Reversing/Parte4_Actividad 24/02 - reverse_cipher.md",
-    "picoCTF/Reversing/Parte4_Actividad 24/01 - GDB Test Drive.md",
     "Pasted image 20261119230330.png",
     "Pasted image 20261119230323.png",
-    "Pasted image 20261119230317.png",
-    "picoCTF/Reversing/Parte3_Actividad23/03 - asm3.md",
     "picoCTF/Reversing/Parte4_Actividad 24",
-    "picoCTF/Reversing/Parte3_Actividad23/01 - asm1.md",
-    "picoCTF/Reversing/Parte3_Actividad23/02 - asm2.md",
     "picoCTF/Reversing/Parte3_Actividad23",
     "picoCTF/Reversing/Parte2_Actividad22",
-    "Pasted image 20261027191538.png",
     "picoCTF/Segundo_Examen/Forensic",
     "picoCTF/Segundo_Examen/Crypto",
     "picoCTF/Segundo_Examen"

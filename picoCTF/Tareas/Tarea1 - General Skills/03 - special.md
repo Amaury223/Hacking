@@ -133,7 +133,22 @@ Special$ /???/?????
 Absolutely not paths like that, please!
 Special$ 
 
-
+Special$ a ; cat *
+A ; cat * 
+sh: 1: A: not found
+cat: blargh: Is a directory
+Special$ a ; cat *                      
+A ; cat * 
+sh: 1: A: not found
+cat: blargh: Is a directory
+Special$ a ; ls *
+A ; ls * 
+sh: 1: A: not found
+flag.txt
+Special$ a ; cat */*
+A ; cat */* 
+sh: 1: A: not found
+academy{5p311ch3ck_15_7h3_w0r57_c78cfa94}
 ```
 ## Notas Adicionales
 ## Referencias
